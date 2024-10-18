@@ -1,6 +1,6 @@
 
 ## Hello World!! 👋
-### Me chamo Giovanni Donati. Futuro Software Developer! <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+### Me chamo Giovanni Donati. Futuro Software Developer!🐧 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🔰  Sou de Maravilha/SC, Brasil
 - ⚡ Apaixonado por Tecnologia e Inovação
@@ -17,12 +17,12 @@
 [<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/>](https://www.oracle.com/br/java/)
 [<img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
 
-### ⚡ SGBD:
+### 💾 SGBD:
 [<img height="48px" width="48px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
 [<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=postgresql"/>](https://www.postgresql.org/)
 [<img height="48px" width="48px" alt="Icone SQLite" src="https://skillicons.dev/icons?i=sqlite"/>](https://www.sqlite.org/)
 
-### ⚡ Ferramentas:
+### 🔬 Ferramentas:
 [<img height="48px" width="48px" alt="Icone FastAPI" src="https://skillicons.dev/icons?i=fastapi"/>](https://fastapi.tiangolo.com/)
 [<img height="48px" width="48px" alt="Icone Postman" src="https://skillicons.dev/icons?i=postman"/>](https://www.postman.com/)
 [<img height="48px" width="48px" alt="Icone VIsual Studio Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
@@ -45,8 +45,6 @@
 [<img align="left" height="94px" width="120px" alt="Warpnet" src="https://acad.unoesc.edu.br/academico/images/logo-unoesc-colorido.png"/>](https://www.unoesc.edu.br/)
 **Analise e Desenvolvimento de Sistemas** \
 [**UNOESC**](https://graduacao.uninassau.digital/)</br> </br> </br>
-
-Acesse meu [LinkedIn](https://www.linkedin.com/in/giovanni-rizzi-donati/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ##
 
@@ -73,3 +71,6 @@ Acesse meu [LinkedIn](https://www.linkedin.com/in/giovanni-rizzi-donati/) para u
     </a>
   </p>
 </div>
+</br>
+<h3 align="center">I can see you!👀</h3>
+<p align="center"> <img align="center" src="https://profile-counter.glitch.me/GiovanniDonati/count.svg" /></p>
