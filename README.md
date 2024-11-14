@@ -24,6 +24,8 @@
 
 ### 🔬 Ferramentas:
 [<img height="48px" width="48px" alt="Icone FastAPI" src="https://skillicons.dev/icons?i=fastapi"/>](https://fastapi.tiangolo.com/)
+[<img height="48px" width="48px" alt="Icone vite" src="https://skillicons.dev/icons?i=vite"/>](https://vite.dev/)
+[<img height="48px" width="48px" alt="Icone TailwindCss" src="https://skillicons.dev/icons?i=tailwindcss"/>](https://tailwindcss.com/)
 [<img height="48px" width="48px" alt="Icone Postman" src="https://skillicons.dev/icons?i=postman"/>](https://www.postman.com/)
 [<img height="48px" width="48px" alt="Icone VIsual Studio Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
 [<img height="48px" width="48px" alt="Icone IntelliJ IDEA" src="https://skillicons.dev/icons?i=idea"/>](https://www.jetbrains.com/idea/)
