@@ -1,4 +1,3 @@
-
 ## Hello World!! 👋
 ### Me chamo Giovanni Donati. Software Developer!🐧 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
@@ -46,10 +45,14 @@
 
 ##
 
+<h3 align="center">I can see you!👀</h3>
+<p align="center"> <img align="center" src="https://profile-counter.glitch.me/GiovanniDonati/count.svg" /></p>
+
 <h3 align="center">🌐 GitHub</h3>
   
 <div align="center">
-<!--   <img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=GiovanniDonati&amp;theme=radical"/></br> -->
+  <img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=GiovanniDonati&amp;theme=radical"/></br>
+  <img height="153px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=GiovanniDonati&show_icons=true&theme=radical"/></br>
   <img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniDonati&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
@@ -57,18 +60,16 @@
 
 <div align="center" style="display: flex;">
   <h3>Entre em contato comigo 😉</h3>
-  <p>
+  <div>
     <a href = "mailto:grdonati99@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a> 
+    </a>
     <a href="https://www.linkedin.com/in/giovanni-rizzi-donati/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-    </a> 
+    </a>
     <a href="https://www.instagram.com/giovanni_donatii/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagaram"/>
     </a>
-  </p>
+  </div>
 </div>
 </br>
-<h3 align="center">I can see you!👀</h3>
-<p align="center"> <img align="center" src="https://profile-counter.glitch.me/GiovanniDonati/count.svg" /></p>
