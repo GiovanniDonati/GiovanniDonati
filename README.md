@@ -1,48 +1,35 @@
 ## Hello World!! 👋
 ### Me chamo Giovanni Donati. Software Developer!🐧 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🔰  Sou de Maravilha/SC, Brasil
-- ⚡ Apaixonado por Tecnologia e Inovação
+- ⚡ Entusiasta por Engenharia de Software e Gestão de Projetos.
 - 🧠 Estudante de Analise e Desenvolvimento de Sistemas - [UNOESC](https://www.unoesc.edu.br)
-- 🏦 Analista de Desenvolvimento de Sistemas na [Corti Avioeste](https://avioeste.com.br/) em Cunha Porã/SC &     
- Professor de Lógica de Programação e Banco de Dados na instituição [SENAI](https://sc.senai.br/) em Maravilha/SC
+- 🏦 Analista de Sistemas e Desenvolvedor de Software na [Corti Avioeste](https://avioeste.com.br/) &     
+ Professor de Lógica de Programação e Banco de Dados na instituição [SENAI](https://sc.senai.br/)
 
 ##
 
-### ⚡ Linguagens:
+### ⚡ Tecnologias:
 [<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/>](https://www.oracle.com/br/java/)
-[<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=spring"/>](https://spring.io/projects/spring-boot)
+[<img height="48px" width="48px" alt="Icone SpringBoot" src="https://skillicons.dev/icons?i=spring"/>](https://spring.io/projects/spring-boot)
 [<img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
-[<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=react"/>](https://react.dev)
+[<img height="48px" width="48px" alt="Icone FastAPI" src="https://skillicons.dev/icons?i=fastapi"/>](https://fastapi.tiangolo.com/)
 [<img height="48px" width="48px" alt="Icone JavaScript" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img height="48px" width="48px" alt="Icone ReactJS" src="https://skillicons.dev/icons?i=react"/>](https://react.dev)<br/>
+[<img height="48px" width="48px" alt="Icone TailwindCss" src="https://skillicons.dev/icons?i=tailwindcss"/>](https://tailwindcss.com/)
+[<img height="48px" width="48px" alt="Icone Vite" src="https://skillicons.dev/icons?i=vite"/>](https://vite.dev/)
+[<img height="48px" width="48px" alt="Icone Postman" src="https://skillicons.dev/icons?i=postman"/>](https://www.postman.com/)
+[<img height="48px" width="48px" alt="Icone Docker" src="https://skillicons.dev/icons?i=docker"/>](https://www.docker.com/)
+[<img height="48px" width="48px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>](https://www.git.com/)
 
 ### 💾 SGBD:
 [<img height="48px" width="48px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
 [<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=postgresql"/>](https://www.postgresql.org/)
 [<img height="48px" width="48px" alt="Icone SQLite" src="https://skillicons.dev/icons?i=sqlite"/>](https://www.sqlite.org/)
 
-### 🔬 Ferramentas:
-[<img height="48px" width="48px" alt="Icone FastAPI" src="https://skillicons.dev/icons?i=fastapi"/>](https://fastapi.tiangolo.com/)
-[<img height="48px" width="48px" alt="Icone TailwindCss" src="https://skillicons.dev/icons?i=tailwindcss"/>](https://tailwindcss.com/)
-[<img height="48px" width="48px" alt="Icone Postman" src="https://skillicons.dev/icons?i=postman"/>](https://www.postman.com/)
-[<img height="48px" width="48px" alt="Icone VIsual Studio Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
-[<img height="48px" width="48px" alt="Icone IntelliJ IDEA" src="https://skillicons.dev/icons?i=idea"/>](https://www.jetbrains.com/idea/)
-[<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-[<img height="48px" width="48px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-##
-
 ### 🔭 Estou aprendendo sobre:
 [<img height="48px" width="48px" alt="Icone node" src="https://skillicons.dev/icons?i=nodejs"/>](https://node.dev)
 [<img height="48px" width="48px" alt="Icone Dart" src="https://skillicons.dev/icons?i=dart"/>](https://dart.dev)
 [<img height="48px" width="48px" alt="Icone Flutter" src="https://skillicons.dev/icons?i=flutter"/>](https://flutter.dev)
-##
-
-### 👨‍🎓 Formação Acadêmica:
-
-[<img align="left" height="94px" width="120px" alt="Warpnet" src="https://acad.unoesc.edu.br/academico/images/logo-unoesc-colorido.png"/>](https://www.unoesc.edu.br/)
-**Analise e Desenvolvimento de Sistemas** \
-[**UNOESC**](https://graduacao.uninassau.digital/)</br> </br> </br>
-
 ##
 
 <h3 align="center">I can see you!👀</h3>
